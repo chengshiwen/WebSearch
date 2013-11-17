@@ -1,0 +1,17 @@
+[
+	{
+		"caption": "Web Search",
+		"children":
+		[
+			{ "caption": "Google Search", "command": "websearch", "args": {"request_url": "http://www.google.com/search?q=%s"} },
+			{ "caption": "Wikipedia Search", "command": "websearch", "args": {"request_url": "http://en.wikipedia.org/wiki/%s"} },
+			{ "caption": "MBAlib Search", "command": "websearch", "args": {"request_url": "http://wiki.mbalib.com/wiki/%s"} },
+			{ "caption": "GitHub Search", "command": "websearch", "args": {"request_url": "https://github.com/search?q=%s"} },
+			{ "caption": "Stack Overflow", "command": "websearch", "args": {"request_url": "http://stackoverflow.com/search?q=%s"} },
+			{ "caption": "Google Scholar", "command": "websearch", "args": {"request_url": "http://scholar.google.com/scholar?q=%s"} },
+			{ "caption": "Google Translate", "command": "websearch", "args": {"request_url": "http://translate.google.com/#auto/en/%s"} },
+			{ "caption": "Baidu Search", "command": "websearch", "args": {"request_url": "http://www.baidu.com/s?wd=%s"} },
+			{ "caption": "Bing Search", "command": "websearch", "args": {"request_url": "www.bing.com/search?q=%s"} }
+		]
+	}
+]

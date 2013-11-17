@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["ctrl+alt+g"], "command": "websearch", "args": {"request_url": "http://www.google.com/search?q=%s"}
+    }
+]
