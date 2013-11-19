@@ -5,6 +5,20 @@ Search Google, Wikipedia, MBAlib, GitHub, Stack Overflow, Google Scholar, Google
 
 This package adds a "Web Search" item to the context menu in [Sublime Text 2][1].
 
+
+**9 Web Search Tools:**
+
+- Google Search
+- Wikipedia Search
+- MBAlib Search
+- GitHub Search
+- Stack Overflow
+- Google Scholar
+- Google Translate
+- Baidu Search
+- Bing Search
+
+
 ##Install
 
 If your using the **Sublime Package Manger** hold down Ctrl+Shift+P and type

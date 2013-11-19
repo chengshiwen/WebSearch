@@ -1,0 +1,11 @@
+[
+	{ "caption": "Web Search: Google Search", "command": "websearch", "args": {"request_url": "http://www.google.com/search?q=%s"} },
+	{ "caption": "Web Search: Wikipedia Search", "command": "websearch", "args": {"request_url": "http://en.wikipedia.org/wiki/%s"} },
+	{ "caption": "Web Search: MBAlib Search", "command": "websearch", "args": {"request_url": "http://wiki.mbalib.com/wiki/%s"} },
+	{ "caption": "Web Search: GitHub Search", "command": "websearch", "args": {"request_url": "https://github.com/search?q=%s"} },
+	{ "caption": "Web Search: Stack Overflow", "command": "websearch", "args": {"request_url": "http://stackoverflow.com/search?q=%s"} },
+	{ "caption": "Web Search: Google Scholar", "command": "websearch", "args": {"request_url": "http://scholar.google.com/scholar?q=%s"} },
+	{ "caption": "Web Search: Google Translate", "command": "websearch", "args": {"request_url": "http://translate.google.com/#auto/en/%s"} },
+	{ "caption": "Web Search: Baidu Search", "command": "websearch", "args": {"request_url": "http://www.baidu.com/s?wd=%s"} },
+	{ "caption": "Web Search: Bing Search", "command": "websearch", "args": {"request_url": "www.bing.com/search?q=%s"} }
+]
