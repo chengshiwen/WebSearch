@@ -25,11 +25,11 @@ Install this repository
 
 	cd ~/.config/sublime-text-2/Packages (On Linux or Mac OS)
 	cd C:\Users\YourAccount\AppData\Roaming\Sublime Text 2\Packages (On Windows)
-	git clone https://github.com/cheng-shiwen/WebSearch.git
+	git clone https://github.com/chengshiwen/WebSearch.git
 
 Or only one command on Linux or Mac OS
 
-	git clone https://github.com/cheng-shiwen/WebSearch.git ~/.config/sublime-text-2/Packages/WebSearch
+	git clone https://github.com/chengshiwen/WebSearch.git ~/.config/sublime-text-2/Packages/WebSearch
 
 Or you can select **Preferences** in the menu of Sublime Text and click **Browse Packages...** into your Sublime packages directory. Then download the package as a zip file [WebSearch-master.zip][2] and unzip it into your Sublime packages directory. Finally remember to rename the file folder into **WebSearch**.
 
@@ -40,4 +40,4 @@ To use the command select some text and right click **Web Search** in the buffer
 ![usage](./usage.png)
 
   [1]: http://www.sublimetext.com
-  [2]: https://github.com/cheng-shiwen/WebSearch/archive/master.zip
+  [2]: https://github.com/chengshiwen/WebSearch/archive/master.zip
